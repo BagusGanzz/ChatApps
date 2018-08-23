@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatSDK</string>
+    <string name="enter_your_friend_name">Enter Your Friend Name</string>
+    <string name="re_enter_password">Re-enter Password</string>
+</resources>

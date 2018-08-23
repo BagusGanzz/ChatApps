@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1015123547216",
+    "firebase_url": "https://chattingproject-a33ce.firebaseio.com",
+    "project_id": "chattingproject-a33ce",
+    "storage_bucket": "chattingproject-a33ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015123547216:android:f400efc1de9443cd",
+        "android_client_info": {
+          "package_name": "com.bagusapps.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015123547216-43nfk3a51g05p4dl9f7uv65g4osc6862.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bagusapps.chat",
+            "certificate_hash": "bb38718eeeb2f0d131f041b99e3eb80b214247d7"
+          }
+        },
+        {
+          "client_id": "1015123547216-f82vlfvaspp777n3nfnqh9lofc8ucvgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA81BuTf6vTxaPvB_oEaATu6c7iqtf4Ws8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015123547216-f82vlfvaspp777n3nfnqh9lofc8ucvgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
